@@ -8,7 +8,20 @@
 **Contact Us:** The Contact Us page contains a form that collects the contact details of the user as well as any queries or questions they may have (in the message section) next to a map which displays the location of Baizonn Learning Center in Singapore based on the address provided to us by the client, below it is a map which shows where we are located as well as images of how to get to the center through Bus, MRT and Taxi.
 
 # Plugins
+**Akismet Anti-Spam:** Akismet is a tool that helps websites and blogs prevent and block spam. When people submit comments or forms on a website, Akismet analyses the content to determine if it's spam or legitimate.
 
+**Elementor**: A site building plugin, we used this as a way to easily edit the site and its details by using Elementor’s intuitive features to develop the site with ease.
+
+**Envato Elements**: A plugin to develop and create the header and footer for the theme and to add elements to the website.
+
+**Essential Addons for Elementor**: We used this plugin to develop and table for the class schedules on the ‘Registration’ page.
+
+**WPForms Lite**: A plugin used to create the ‘Contact Form’ and the ‘Registration Form’ on the ‘Contact Us’ and ‘Register’ pages respectively.
+
+**Elementor Header and Footer Builder**: This Plugin was used to edit and display the header and footer on the site, determining where they would be placed and their colours and the navigation bar placement, as well as added features.
+
+**reCAPTCHA by BestWebSoft**: It's a tool that helps determine if a visitor to a website is a real person or a computer program.
 
 # Further Development
+
 
