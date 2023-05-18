@@ -23,5 +23,35 @@
 **reCAPTCHA by BestWebSoft**: It's a tool that helps determine if a visitor to a website is a real person or a computer program.
 
 # Further Development
+To facilitate ongoing development and customization of our website, we employ two powerful tools: the WordPress editor and Elementor. These tools provide us with a user-friendly interface and extensive functionality to update details, modify colours, and add new pages to our website. This documentation outlines the process of utilizing these tools and provides instructions for adding new pages to the website and incorporating them into the navigation bar.
 
+The WordPress editor serves as a comprehensive platform for updating website content. With its intuitive interface, we can easily modify text, images, and other elements throughout the site. To update details and colours, follow these steps:
 
+1. Log in to the WordPress admin dashboard.
+2. Navigate to the "Pages" section.
+3. Select the page you wish to update.
+4. Make the desired changes using the WordPress editor.
+5. To modify colours, use the colour picker or enter the hexadecimal value of the desired colour.
+6. Preview and save your changes.
+
+For more advanced customization, we leverage the power of Elementor. Elementor is a popular page builder plugin that provides a drag-and-drop interface and extensive design options. To modify colours and customize the appearance of specific elements, follow these steps:
+
+1. Install and activate the Elementor plugin (if not already done).
+2. Edit the page you want to customize using Elementor.
+3. Select the element you wish to modify, such as a heading, button, or section.
+4. In the Elementor sidebar, navigate to the "Style" tab.
+5. Modify the colours using the colour picker or by entering the hexadecimal value.
+6. Customize other appearance options as desired, such as fonts, margins, and padding.
+7. Preview and save your changes.
+
+To add a new page to the website and include it in the navigation bar, follow these steps:
+
+1. Access the WordPress admin dashboard.
+2. Go to the "Pages" section and click "Add New."
+3. Create and design the new page using the WordPress editor or Elementor.
+4. Once the page is ready, click "Publish" or "Update" to save it.
+5. Navigate to the "Appearance" section and select "Menus."
+6. Create a new menu or edit an existing one.
+7. Add the new page to the menu by checking the corresponding box and clicking "Add to Menu."
+8. Arrange the menu items as desired by dragging and dropping them into the desired order.
+9. Save the menu.
