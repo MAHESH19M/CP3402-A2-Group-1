@@ -7,6 +7,14 @@ The theme follows several guidelines in the building of a theme template, where 
 # Design
 Our website's design aesthetic centers around delivering a clean and uncluttered user experience. By prioritizing minimalism and a uniform colour scheme, we create an environment that focuses on essential information while maintaining an appealing visual appeal. This documentation outlines key design elements, such as a text-centric approach, limited use of images, and consistent margins and padding across all pages and viewports.
 
+**Text Centric Approach**: To ensure a content-driven experience, we have intentionally placed emphasis on textual information throughout the website. By presenting information primarily through well-crafted and concise text, we allow visitors to easily digest and engage with the content. This approach fosters a sense of clarity and enables users to quickly find the information they seek.
+
+**Limiting Images**: While images play a supporting role in enhancing the textual content, we have intentionally avoided cluttering the website with excessive visuals. By judiciously selecting and thoughtfully incorporating relevant images, we strike a balance between providing visual context and maintaining a streamlined design. This approach allows for faster loading times and a focused user experience.
+
+**Clean Visuals**: The website's aesthetic exudes a rustic and clean vibe, promoting a sense of simplicity and elegance. With a carefully curated colour palette, we maintain a consistent and harmonious visual experience across all pages. By employing neutral tones and understated elements, we create a visually cohesive environment that is pleasing to the eye.
+
+**Uniformity**: To achieve a polished and organized appearance, we have implemented uniform margins and padding on all pages, regardless of the viewport or device. Consistency in spacing ensures a balanced layout and contributes to an overall sense of professionalism. By meticulously maintaining these design principles, we guarantee a visually pleasing experience for all users.
+
 # Typography
 
 # Colours
