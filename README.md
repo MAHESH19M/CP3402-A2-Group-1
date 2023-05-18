@@ -8,7 +8,7 @@ This Project Repository contains the information for creating a new website for 
 - Lu Zhixian - 14161321
 
 # Repository Contents
-[a2.html] (a2.html) - contains links to the website, our mediums of collaboration and link to the repository. 
+a2.html - contains links to the website, our mediums of collaboration and link to the repository. 
 
 deployment.md - This gives information on our development and deployment of our site.
 
