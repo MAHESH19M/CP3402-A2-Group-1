@@ -25,3 +25,16 @@ Our website's design aesthetic centers around delivering a clean and uncluttered
 **Fallback Option**: While 'Montserrat' is our preferred font choice, it is essential to maintain optimal readability even in situations where it may not be available. In such cases, we prioritize using any readable 'sans-serif' font as a suitable fallback option, ensuring that the content remains easily accessible and visually pleasing to our audience.
 
 # Colours
+The colour scheme of a website plays a vital role in creating an engaging and visually cohesive user experience. Our website incorporates a carefully selected palette of primary colours to achieve a harmonious and aesthetically pleasing design. This documentation outlines the specific colour choices and their application throughout the site, ensuring readability and visual appeal.
+
+Primary Colours:
+
+- **Background Colour (#F2EBE6 - Ivory)**: The majority of the background for each page is set to the soothing and elegant colour #F2EBE6, commonly known as Ivory. This choice creates a clean and inviting atmosphere, enhancing the overall readability and providing a pleasant visual backdrop for content.
+- **Header Colour (#92AFA6 - Mint)**: To add a refreshing touch, the header is styled with the colour #92AFA6, a mint shade. This hue brings a subtle vibrancy to the header area, creating a distinct visual separation and drawing attention to important navigation elements.
+- **Footer Colour (#020101 - Black)**: The footer area is designed with a contrasting and sleek black colour (#020101). This choice creates a visual anchor at the bottom of the page, adding a sense of depth and elegance while complementing the overall colour scheme.
+
+**Text Colouration**: To ensure optimal readability, the standardized text colour throughout the website is #373839, a charcoal shade. This choice strikes a balance between legibility and visual appeal, providing clear and crisp text that is easy to read against the chosen background colours.
+
+**Unique Colouration**: In certain sections, such as the "Classes Offered" section on the homepage, a unique coloration of #EECCEE is used. This distinctive colour creates visual interest and highlights specific content, adding a touch of variety and enhancing the overall design.
+
+**Table Colouration**: The table present on the "Register" page utilizes alternating row colours for improved readability. The table header maintains the charcoal colour (#373839), while odd rows feature a calming #8CAAA0 shade, and even rows adopt the background colour (#F2EBE6 - Ivory) for a cohesive appearance. Additionally, white text (#FFFFFF) is used for enhanced contrast and readability against dark backgrounds.
